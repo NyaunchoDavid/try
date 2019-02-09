@@ -1,0 +1,107 @@
+body{
+  padding:0;
+  margin:0;
+}
+.header{
+  background-color:#00143d;
+  height:89px;
+  margin:0;
+}
+.header ol{
+  list-style-type:none;
+}
+.header ol li a{
+  color:#fffdce;
+  text-decoration:none;
+  float:left;
+  padding:12px;
+  margin-top:21px;
+  border:none;
+  margin-right:4px;
+}
+.header ol li a:hover{
+  color:#ff567c;
+}
+.first{
+  height:400px;
+  border:none;
+  margin:0 auto;
+  background-image:url("../island.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  padding:3px;
+  opacity:0.7;
+}
+h3{
+  text-align:center;
+  font-size:36px;
+  margin-top:34px;
+  color:#067fcd;
+}
+h5{
+  text-align:center;
+  font-size:39px;
+  color:#fff567;
+  margin-top:150px;
+}
+.acc{
+  width:300px;
+  height:300px;
+  border-radius:150px;
+  background-image:url("../accom.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  box-shadow:5px 5px 15px #000;
+  overflow:hidden;
+  float:left;
+  margin:6px;
+  margin-left:21px;
+}
+.trav{
+  width:300px;
+  height:300px;
+  border-radius:150px;
+  background-image:url("../bus.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  box-shadow:5px 5px 15px #000;
+  overflow:hidden;
+  float:left;
+  margin:6px;
+}
+.cont{
+  width:300px;
+  height:300px;
+  border-radius:150px;
+  background-image:url("../casino.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  box-shadow:5px 5px 15px #000;
+  overflow:hidden;
+  float:left;
+  margin:6px;
+}
+.act{
+  width:300px;
+  height:300px;
+  border-radius:150px;
+  background-image:url("../food.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  overflow:hidden;
+  float:left;
+  box-shadow:5px 5px 15px #000;
+}
+.carry{
+  height:420px;
+  background-image:url("../wall.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center center;
+  padding:12px;
+}
